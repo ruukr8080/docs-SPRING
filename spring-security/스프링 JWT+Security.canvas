@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f775ff119e506b0e","x":-800,"y":-200,"width":250,"height":60,"type":"file","file":"LoginAPI.js.md"},
+		{"id":"b4786a2442a6af88","type":"file","file":"WebSecurityConfig.md","x":-55,"y":-100,"width":250,"height":60},
+		{"id":"f8453dbb1705568c","type":"file","file":"CORS.md","x":-260,"y":-200,"width":140,"height":60},
+		{"id":"c2f4e3641017657c","type":"file","file":"CSRF.md","x":-260,"y":-120,"width":140,"height":60},
+		{"id":"4d7b7878a9fddc20","type":"file","file":"SOP.md","x":-260,"y":-40,"width":140,"height":60},
+		{"id":"16ff144468365c05","type":"text","text":"알아둬야할 용어","x":-315,"y":-300,"width":250,"height":60},
+		{"id":"9b4213c3e6d10328","type":"file","file":"JWT.md","x":-65,"y":-200,"width":160,"height":50},
+		{"id":"0fc6511e02f4e170","x":-800,"y":-300,"width":250,"height":60,"type":"text","text":"Front\n"}
+	],
+	"edges":[]
+}

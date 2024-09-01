@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "516b1a332fe7cc20",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb291fcf0342536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "133ce3b5481c258c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bfd2fd9cfd363d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebSecurityConfig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46f9424b0835931f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebSecurityConfig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e0bd2386592aeca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CORS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca18a8d26f1885ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JWT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0081d5e9e223b495",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef54f5bc232f775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "753c005d3337eb0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15e58fbc7abbec00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a56b5730cc62d24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16d12275b974dcf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a4a1295fc8efdb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5109804986c866c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CORS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08668e084d9c6680",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CORS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1091cffc680ec291",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5cddfa082bb3d7bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CORS.md"
+              }
+            }
+          },
+          {
+            "id": "dcadfd613b1845e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4e0bd2386592aeca",
+  "lastOpenFiles": [
+    "CSRF.md",
+    "JWT.md",
+    "CORS.md",
+    "유저 권한 부여 & 제어.md",
+    "스프링 JWT+Security.canvas",
+    "스프링 시큐리티 설정 격변.md",
+    "Security.md",
+    "LoginAPI.js.md",
+    "WebSecurityConfig.md",
+    "Pasted image 20240830173026.png",
+    "Pasted image 20240830213137.png",
+    "무제 파일.md",
+    "Pasted image 20240830185734.png",
+    "JWT 1.md",
+    "SOP.md"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "b94abada56e440ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "d22bd1cc4be23971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ce1482f7d418ac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28eaf33213c2d15c",
+    "type": "split",
+    "children": [
+      {
+        "id": "43f7cc0e8683efa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a1bb47202731fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6984a628f47abac3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c493f246784ff86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df75f66fc52cee95",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a2d1c312f42a50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3d744e979a2b697",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd25adc63df7ca8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88da5c1c2caab769",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8167ff6756c13ba0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "37ce1482f7d418ac",
+  "lastOpenFiles": [
+    "spring-security/스프링 JWT+Security.canvas",
+    "spring-security/스프링 시큐리티 설정 격변.md",
+    "spring-security/유저 권한 부여 & 제어.md",
+    "spring-security/WebSecurityConfig.md",
+    "spring-security/SOP.md",
+    "spring-security/JWT.md",
+    "spring-security/Pasted image 20240830173026.png",
+    "spring-security/LoginAPI.js.md",
+    "spring-security/CSRF.md",
+    "spring-security/CORS.md",
+    "spring-security/무제 파일.md"
+  ]
+}
